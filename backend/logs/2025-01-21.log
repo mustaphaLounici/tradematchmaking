@@ -86,3 +86,19 @@
 {"timestamp":"2025-01-21T03:51:01.995Z","type":"MATCH","message":"Match executed for item 1","matchId":"trade:1737431461994:pudnipd","bidOrderId":"order:1737431461958:0nyngn","askOrderId":"order:1737431458696:av6bz8","price":176.1,"quantity":55}
 {"timestamp":"2025-01-21T03:51:01.995Z","type":"INFO","message":"Matching cycle completed for item 1","itemId":"1","cycleTimeMs":5,"matchCount":7,"totalVolume":60739}
 {"timestamp":"2025-01-21T03:51:01.995Z","type":"INFO","message":"Order book state for item 1","itemId":"1","remainingBids":10,"remainingAsks":15}
+{"timestamp":"2025-01-21T04:03:55.135Z","type":"INFO","message":"Processing modified items","itemCount":1,"items":["1"]}
+{"timestamp":"2025-01-21T04:03:55.137Z","type":"INFO","message":"Starting matching cycle for item 1","itemId":"1"}
+{"timestamp":"2025-01-21T04:03:55.138Z","type":"INFO","message":"Matching cycle completed for item 1","itemId":"1","cycleTimeMs":1,"matchCount":0,"totalVolume":0}
+{"timestamp":"2025-01-21T04:03:55.139Z","type":"INFO","message":"Order book state for item 1","itemId":"1","remainingBids":4,"remainingAsks":1}
+{"timestamp":"2025-01-21T04:03:55.241Z","type":"INFO","message":"Processing modified items","itemCount":1,"items":["1"]}
+{"timestamp":"2025-01-21T04:03:55.242Z","type":"INFO","message":"Starting matching cycle for item 1","itemId":"1"}
+{"timestamp":"2025-01-21T04:03:55.243Z","type":"INFO","message":"Matching cycle completed for item 1","itemId":"1","cycleTimeMs":1,"matchCount":0,"totalVolume":0}
+{"timestamp":"2025-01-21T04:03:55.243Z","type":"INFO","message":"Order book state for item 1","itemId":"1","remainingBids":4,"remainingAsks":4}
+{"timestamp":"2025-01-21T04:04:22.747Z","type":"INFO","message":"Processing modified items","itemCount":1,"items":["1"]}
+{"timestamp":"2025-01-21T04:04:22.749Z","type":"INFO","message":"Starting matching cycle for item 1","itemId":"1"}
+{"timestamp":"2025-01-21T04:04:22.752Z","type":"MATCH","message":"Match executed for item 1","matchId":"trade:1737432262750:qugqy","bidOrderId":"order:1737432235112:56jez","askOrderId":"order:1737432262676:54eejo","price":99.75,"quantity":25}
+{"timestamp":"2025-01-21T04:04:22.753Z","type":"MATCH","message":"Match executed for item 1","matchId":"trade:1737432262753:3cp04","bidOrderId":"order:1737432235112:56jez","askOrderId":"order:1737432262681:7304r","price":100.25,"quantity":25}
+{"timestamp":"2025-01-21T04:04:22.754Z","type":"MATCH","message":"Match executed for item 1","matchId":"trade:1737432262754:pw48ls","bidOrderId":"order:1737432235119:o0ye8s","askOrderId":"order:1737432262681:7304r","price":100.25,"quantity":10}
+{"timestamp":"2025-01-21T04:04:22.755Z","type":"MATCH","message":"Match executed for item 1","matchId":"trade:1737432262755:w10ll2","bidOrderId":"order:1737432235119:o0ye8s","askOrderId":"order:1737432262685:owpjei","price":100.75,"quantity":45}
+{"timestamp":"2025-01-21T04:04:22.755Z","type":"INFO","message":"Matching cycle completed for item 1","itemId":"1","cycleTimeMs":6,"matchCount":4,"totalVolume":10536.25}
+{"timestamp":"2025-01-21T04:04:22.756Z","type":"INFO","message":"Order book state for item 1","itemId":"1","remainingBids":6,"remainingAsks":4}
